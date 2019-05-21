@@ -1,0 +1,44 @@
+/*
+dark primary color: #F57C00
+primany color: #FF9800
+accent color: #8BC34A
+text: #757575
+hover text: #212121
+*/
+
+* {
+    margin: 1px;
+    padding: 20;
+
+}
+
+
+h1 {
+    
+    background-color: #F57C00;
+    color: #757575; 
+    padding: 20px;
+    text-align: center;
+    font-family: 
+
+}
+
+nav {
+    background-color: #FF9800;
+}
+
+
+nav ul {
+    list-style: square;
+    color: #757575
+}
+
+nav a {
+    color: #757575;
+    text-decoration: none
+    
+}
+
+nav a:hover {
+    color: #212121;
+}
